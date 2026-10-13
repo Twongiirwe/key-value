@@ -4,7 +4,7 @@ A small, fast, Redis-like key-value store that keeps data in memory using a Java
 
 ## Video walkthrough
 
-**Code explanation (5 min):** https://REPLACE-WITH-YOUR-PUBLIC-VIDEO-URL
+**Code explanation (5 min):** https://youtu.be/L8XUST9kdh4
 
 ## Usage
 
